@@ -20,4 +20,4 @@
 
 
 <br>
-#### For any question, you can contact us: <a href="mailto:vincent.yang@yeahmobi.com">vincent.yang@yeahmobi.com</a>  <a href="mailto:elaine.ma@yeahmobi.com">elaine.ma@yeahmobi.com</a>
+#### For any question, you can contact :<a href="mailto:elaine.ma@yeahmobi.com">elaine.ma@yeahmobi.com</a>
