@@ -17,7 +17,3 @@
 
 <p ><a href="http://www.mybiogate.com/biotochina" target="_blank"><img src="http://www.mybiogate.com/asset/img/logo.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://manage.yeahmobi.com" target="_blank"><img src="https://manage.yeahmobi.com/asset/image/icon/icon-48.png"/></a>   </p>
 
-
-
-<br>
-#### For any question, you can contact :<a href="mailto:elaine.ma@yeahmobi.com">elaine.ma@yeahmobi.com</a>
